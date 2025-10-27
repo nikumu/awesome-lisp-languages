@@ -178,6 +178,10 @@ Listed primarily by the language which can be used for interoperability / [FFI](
 - [Lumen](https://github.com/sctb/lumen) [Type-A] self-hosted Lisp for Lua and JavaScript, uses arrays as first-class datastructures
 - [Urn](https://urn-lang.com/) [?] focus on minimalism, should work with LuaJIT, influenced by Common Lisp and Clojure
 
+### Nim
+
+- [Spry](https://github.com/gokr/spry) - A small, embeddable Lisp language written in Nim with minimalistic syntax
+
 ### Objective-C
 
 - [DreamLisp](https://github.com/jsloop42/dreamlisp) [Type-B] Clojure-inspired, originally based on MAL, added modules, lazy collections
